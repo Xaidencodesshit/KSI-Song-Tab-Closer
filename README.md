@@ -22,7 +22,7 @@ Follow these steps to install and run the extension on your Chrome browser:
 2. Select the folder where you extracted the ZIP file.
 
 ### 4. Verify Installation
-- Once loaded, you should see the extension icon in the Chrome toolbar (if it has one).
+- Once loaded, you should see the extension icon in the Chrome toolbar.
 - The extension will now start monitoring pages.
 
 ---
